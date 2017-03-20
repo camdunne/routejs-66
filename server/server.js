@@ -13,7 +13,7 @@ require('./config/middleware.js')(app, express)
 require('./config/routes.js')(app, express)
 
 
-var port = process.env.PORT || 7337;
+var port = process.env.PORT || 8000;
 app.listen(port, function(){
   console.log("Listening on port", port)
 })
