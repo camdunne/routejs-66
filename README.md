@@ -4,9 +4,9 @@
 
 ## Team
 
-  - __Product Owner__: Rich Serdici (https://github.com/ralexanderdesign)
-  - __Scrum Master__: Cameron Dunne (https://github.com/camdunne)
-  - __Development Team Members__: Viswada Yangala (https://github.com/vyangala)
+  - __Product Owner__: [Rich Serdici](https://github.com/ralexanderdesign)
+  - __Scrum Master__: [Cameron Dunne](https://github.com/camdunne)
+  - __Development Team Members__: [Viswada Yangala](https://github.com/vyangala)
 
 ## Table of Contents
 
@@ -53,7 +53,7 @@ View the project roadmap [here](https://github.com/routejs-66/routejs-66/issues)
 
 ### View
 
-[Home Page](main.png)
+![Home Page](main.png)
 
 ## Contributing
 
